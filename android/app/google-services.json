@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337562631404",
+    "project_id": "kharcha-531a4",
+    "storage_bucket": "kharcha-531a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337562631404:android:cddf336f26cf7b8d8ff9c9",
+        "android_client_info": {
+          "package_name": "com.example.kharcha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-hytlzEeGeMcUqVf7xqkjU6owFeSn1Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337562631404:android:ea0477e9dcef0a728ff9c9",
+        "android_client_info": {
+          "package_name": "com.kharcha.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-hytlzEeGeMcUqVf7xqkjU6owFeSn1Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
